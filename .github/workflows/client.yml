@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-99-jjangyeunii-s3 \
             --delete
-        working-directory: ./my-agora-states-client/build
+        working-directory: ./my-agora-states-client
